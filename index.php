@@ -1,6 +1,6 @@
-<?php $company = "WALDON AUTOMOTIVE SERVICE";
-$phone = "(812) 537-1865";
-	$address1 = "348 W EADS PKWY";
+<?php $company = "KEPLINGER'S AUTOMOTIVE CENTER, INC.";
+$phone = "(301) 733-0760";
+	$address1 = "10218 SHARPSBURG PIKE";
 	$address2 = "LAWRENCEBURG, IN 47025";
 ?>
 <!DOCTYPE html>
@@ -73,8 +73,8 @@ $phone = "(812) 537-1865";
                     
                   </div>
                 </div>
-                <h3 class="u-text u-text-7">Contact us</h3>
-                <h6 class="u-text u-text-8">Do not hesitate to start a new project with us!</h6>
+                <h3 class="u-text u-text-7">Here for you</h3>
+                <h6 class="u-text u-text-8">Reach out!</h6>
               </div>
             </div>
           </div>
