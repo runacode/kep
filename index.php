@@ -1,7 +1,7 @@
 <?php $company = "KEPLINGER'S AUTOMOTIVE CENTER, INC.";
 $phone = "(301) 733-0760";
 	$address1 = "10218 SHARPSBURG PIKE";
-	$address2 = "LAWRENCEBURG, IN 47025";
+	$address2 = "HAGERSTOWN, MD 21740";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
